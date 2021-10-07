@@ -1,3 +1,5 @@
 allDestinations.json
 allSources.json
 temp.json
+.DS_Store
+node_modules/
